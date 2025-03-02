@@ -4,7 +4,8 @@
 
 [![npm](https://img.shields.io/npm/v/scraper-simplifier)](https://www.npmjs.com/package/scraper-simplifier)
 [![npm downloads](https://img.shields.io/npm/dt/scraper-simplifier)](https://www.npmjs.com/package/scraper-simplifier)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/scraper-simplifier?style=social)](https://github.com/yourusername/scraper-simplifier)
+[![GitHub stars](https://img.shields.io/github/stars/Adilsheikhh/scraper-simplifier?style=social)](https://github.com/Adilsheikhh/scraper-simplifier)
+
 
 A lightweight web scraping tool that extracts data from websites and exports it as JSON or CSV.
 
